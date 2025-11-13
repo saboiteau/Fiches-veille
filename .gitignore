@@ -1,0 +1,6 @@
+# Ignorer les données brutes (raw-data) qui ne doivent pas être commitées
+raw-data/
+# Fichiers temporaires
+*.pyc
+__pycache__/
+.DS_Store
